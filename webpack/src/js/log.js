@@ -1,0 +1,1 @@
+export var consoleMsg = 'Console message from new component';
